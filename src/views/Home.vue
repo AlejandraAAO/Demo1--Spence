@@ -154,7 +154,7 @@
         <div class="flex flex-row justify-center lg:block lg:w-2/5">
           <picture>
             <img
-              class="md:hidden lg:block lg:w-full"
+              class=" lg:block lg:w-full"
               src="../assets/phone-mobile.png"
               alt="Phone with text: Never buy or sell online witout using Escrow.com"
             />
