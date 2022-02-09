@@ -1,6 +1,12 @@
-# p1-spense
+# Demo1 - Spence Landing Page
 
-## Project setup
+Codewell's first code challenge
+
+https://www.codewell.cc/challenges/spense-landing-page--608a7a859691700015db16c5
+
+## Technical instructions to run the project
+
+### Project setup
 ```
 npm install
 ```
